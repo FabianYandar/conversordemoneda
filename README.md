@@ -1,4 +1,4 @@
-<h1> Guia basica - Conversor de Moneda </h1>
+<h1 align="center"> Guia basica - Conversor de Moneda </h1>
 
 Inicialmente se muestra las tasas de conversion de monedas obtenidas de la pagina https://www.exchangerate-api.com/ consumiendo  la API con la API key que se obtuvo desde la misma pagina.
 
